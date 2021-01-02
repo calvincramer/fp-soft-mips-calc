@@ -16,4 +16,4 @@ The operands and operator are entered at run-time by the user.
 
 ## Environment
 
-We used the (MARS MIPS 4.5 emulator)[http://courses.missouristate.edu/KenVollmar/mars] to develop and run this program (we unfortunately did not have any hardware access to any mips machines).
+We used the [MARS MIPS 4.5 emulator](http://courses.missouristate.edu/KenVollmar/mars) to develop and run this program (we unfortunately did not have any hardware access to any mips machines).
